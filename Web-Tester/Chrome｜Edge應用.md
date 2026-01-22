@@ -16,4 +16,4 @@
   家目錄 Default 是預設使用者。其他使用者 Profile N
 - 快速切換Windows系統預設Browser
   目的：Raindrop.IO開啟書籤整理，方便切換Edge與Chrome
-  直接使用瀏覽器內建功能（chrome://setting/default）
+  直接使用瀏覽器內建功能（chrome://settings/defaultBrowser）
