@@ -2,7 +2,7 @@
 
 Javascript 生態套件工具收集與官方網站
 
-[Javascript ECO學習資源](Javascript%20ECO學習資源.md)
+[Web-Dev資源](Web-Development/Web-Dev資源.md)
 
 [前端素材資源與套件](Web-Design/前端素材資源與套件.md)
 
@@ -16,15 +16,14 @@ Javascript 生態套件工具收集與官方網站
 
 - Node.JS｜Bun｜[Deno](https://deno.com/)
 - [Electron](https://www.electronjs.org/)
-- [Electron－Forge](https://github.com/electron/forge)
 
 ## Database
 
+- [Supabase | The Postgres Development Platform.](https://supabase.com/)
 - [node-postgres](https://node-postgres.com/)
 - [porsager/postgres: Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare](https://github.com/porsager/postgres)
 - [Prisma | Instant Postgres plus an ORM for simpler db workflows](https://www.prisma.io/)
 - [MySQL2](https://sidorares.github.io/node-mysql2/docs)
-- [Supabase | The Postgres Development Platform.](https://supabase.com/)
 
 ## 其他工具
 

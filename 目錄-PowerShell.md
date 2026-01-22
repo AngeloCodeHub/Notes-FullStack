@@ -1,10 +1,10 @@
 
 ## 系統管理
 
-- [檔案系統管理](檔案系統管理.md)
-- [Win Service 操作](Win%20Service%20操作.md)
-- [Win環境變數](Win環境變數.md)
-- [Remote-Desktop-Protocol](Remote-Desktop-Protocol.md)
+- [檔案系統管理](WinAdmin/檔案系統管理.md)
+- [Win Service 操作](WinAdmin/WinService操作.md)
+- [Win環境變數](WinAdmin/Win環境變數.md)
+- [Remote-Desktop-Protocol](WinAdmin/Remote-Desktop-Protocol.md)
 
 ## 其他
 
