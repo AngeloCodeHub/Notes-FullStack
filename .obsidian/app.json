@@ -2,5 +2,6 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "tabSize": 2,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }
