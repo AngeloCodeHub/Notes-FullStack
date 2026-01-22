@@ -11,7 +11,7 @@
    [supabase/docker at master · supabase/supabase](https://github.com/supabase/supabase/tree/master/docker)
 5. Git 升級
    [First time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-6. [[安裝－Git與GitHub-Cli]]
+6. [[安裝-Git與GitHub-Cli]]
 7. 安裝必要 VSCode Extensions
 
 ## Windows Ubuntu VM（Production）

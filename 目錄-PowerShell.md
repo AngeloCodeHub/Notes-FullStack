@@ -8,6 +8,7 @@
 
 ## 其他
 
+- 在Windows與Linux使用PowerShell應該釐清各作業系統的內建指令與PowerShell cmd-let指令
 - [Powershell Array](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_arrays)
 - [.NET Console Class](https://learn.microsoft.com/en-us/dotnet/api/system.console)
 - [Chat-Win + R 與 PowerShell 呼叫差異](https://copilot.microsoft.com/shares/XCd2WLQS9D5NbSLkrDfYo)
