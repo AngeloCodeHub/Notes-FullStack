@@ -1,0 +1,3 @@
+- 移除 mariaDB Windows Service：icon左鍵->MariaDB remove service
+- 從 Wamp Console 移除MariaDB：右鍵 -> wamp setting->allow mariaDB取消打勾
+- WAMP 的 php.ini 是使用 phpForApache.ini
