@@ -1,4 +1,8 @@
 
+## 雜記
+
+- 預設沒有 unzip
+
 ## 更改 SSH Port
 
 1. 提升權限編輯 `/etc/ssh/sshd_config` 
@@ -30,17 +34,7 @@ LVM（Logical Volume Manager，邏輯磁碟管理）是Linux系統中一種彈�
 **傳統分區 vs. LVM**  
 傳統分區一旦建立大小固定，調整困難；而LVM則像一個儲存資源池，可以隨需從中切出邏輯卷，並在需要時擴展，使得磁碟管理更為方便和有效。
 
-## 教學文件
+## References
 
 - [Linux 升華：初學者的探索到專家的洞察 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20162250/ironman/6237)
 - [Ubuntu Server documentation](https://documentation.ubuntu.com/server/)
-- [Installing PowerShell on Ubuntu - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu)
-  PowerShell設為預設值
-  ```Bash
-  # 查看shell
-  cat /etc/shells
-  # 查看執行檔位置
-  whereis pwsh
-  # 切換預設值
-  chsh -s /usr/bin/pwsh
-  ```
