@@ -2,6 +2,7 @@
 
 ## 學習資源
 
+- [ ] [CursorTouch/Windows-MCP: MCP Server for Computer Use in Windows](https://github.com/CursorTouch/Windows-MCP)
 - [ ] [microsoft/mcp-for-beginners: This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.](https://github.com/microsoft/mcp-for-beginners?tab=readme-ov-file)
 - [ ] [PAPAYA 電腦教室 n8n EP1](https://www.youtube.com/watch?v=r9mi3ZJIWbg)
 - [ ] [PAPAYA 電腦教室 n8n EP2](https://www.youtube.com/watch?v=sRU6Y7DXkLI)

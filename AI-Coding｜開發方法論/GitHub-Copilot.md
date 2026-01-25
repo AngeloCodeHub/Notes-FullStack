@@ -94,7 +94,7 @@
 - [在終端機中利用 GitHub Copilot CLI 驅動代理工作流程 - YouTube](https://www.youtube.com/watch?v=0XCosNsVb8I)
 - [Github Copilot 聊天視窗指令整理-黑暗執行緒](https://blog.darkthread.net/blog/copilot-chat-cheatsheet/)
 - [Copilot coding agent now supports AGENTS.md custom instructions - GitHub Changelog](https://github.blog/changelog/2025-08-28-copilot-coding-agent-now-supports-agents-md-custom-instructions/)
-- [[LLMs Model]]
+- [[LLMs]]
 
 ## 最佳實作
 

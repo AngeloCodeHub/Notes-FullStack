@@ -2,6 +2,7 @@
 
 ## 筆記
 
+- [AGENTS.md](https://agents.md/)
 - GitHub Spec-kit 是一個框架，支援 GitHub Copilot、Codex、Gemini。不支援 Kiro，Kiro 有自己的框架
 - 規格為王
 - 規格是全部人員都看得懂
@@ -11,7 +12,7 @@
 
 - [ ] codex、gemini、GitHub Copilot Spec-kit是否可以共用?
 
-## SDD 原理
+## SDD
 
 - [[開發方法論]]
 - [從規格到程式：我對 SDD、BDD、TDD 的一點想法（以 Kiro 與高鐵早鳥票為例） | 轉念學 - 敏捷三叔公的學習之旅](https://agile3uncles.com/2025/10/08/sdd-bdd-tdd-kiro/)
@@ -46,19 +47,8 @@
 - [《Spec Kit开发》 - 严富坤的知识库专栏(yanfukun.com)](https://www.yanfukun.com/books/spec-kit)
 - [軟體開發之路 | 這是 SDD, Spec Driven Development 從無到有的以六角架構設計車輛租用系統的範例影片 | Facebook](https://www.facebook.com/groups/361804473860062/posts/%E9%80%99%E6%98%AF-sdd-spec-driven-development-%E5%BE%9E%E7%84%A1%E5%88%B0%E6%9C%89%E7%9A%84%E4%BB%A5%E5%85%AD%E8%A7%92%E6%9E%B6%E6%A7%8B%E8%A8%AD%E8%A8%88%E8%BB%8A%E8%BC%9B%E7%A7%9F%E7%94%A8%E7%B3%BB%E7%B5%B1%E7%9A%84%E7%AF%84%E4%BE%8B%E5%BD%B1%E7%89%87sdd-%E6%98%AF%E6%9C%80%E8%BF%91%E7%81%AB%E7%B4%85%E7%9A%84%E9%96%8B%E7%99%BC%E6%A8%A1%E5%BC%8F%E5%BC%B7%E8%AA%BF%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E5%BE%9E-sour/32103529985927431/)
 - [AI 時代，一定要學會使用 GitHub spec kit — SDD 規格驅動開發 | by Milk Midi | Oct, 2025 | Medium](https://milkmidi.medium.com/ai-%E6%99%82%E4%BB%A3-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%B8%E6%9C%83%E4%BD%BF%E7%94%A8-github-spec-kit-sdd-%E8%A6%8F%E6%A0%BC%E9%A9%85%E5%8B%95%E9%96%8B%E7%99%BC-f2df57cfdf3c)
+- [gotalab/cc-sdd: Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Windsurf.](https://github.com/gotalab/cc-sdd?fbclid=IwY2xjawOTBWtleHRuA2FlbQIxMABicmlkETFJVnQ4ME1BS2hoWEpVTDhNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuaOFMe_T4_87QTiIWMvTUHJPEgYGF0maQsIiuCzLJY1wkeB3dwlKMNcpVyE_aem_DBZtPPgR3ZhllXE73NZ39A)
 
 ## Keyword
 
 - BMAD development
-
-## Claude Code
-
-- [BMAD 終極用法，搭配 Claude Code | Facebook](https://www.facebook.com/groups/366863238003058/permalink/1511876523501718)
-- [Claude Code 通過 Spec Workflow 實現規格驅動開發 | 余小章 @ 大內殿堂 - 點部落](https://dotblogs.com.tw/yc421206/2025/09/07/claude_code_via_spec_workflow_ai_driven_software_development)
-
-## kiro SDD
-
-- [TypeScript and JavaScript - IDE - Docs - Kiro](https://kiro.dev/docs/specs/)
-- [Generative AI 技術交流中心 | 記得Context Engineering這名詞才出來沒多久，AWS的Kiro IDE馬上就以Spec為導向 | Facebook](https://www.facebook.com/groups/gaitech/permalink/1437716884079189)
-- [kiro spec 分享一些我的心得還有做法](https://www.facebook.com/660510468/posts/10162769335395469)
-- [gotalab/cc-sdd: Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Windsurf.](https://github.com/gotalab/cc-sdd?fbclid=IwY2xjawOTBWtleHRuA2FlbQIxMABicmlkETFJVnQ4ME1BS2hoWEpVTDhNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuaOFMe_T4_87QTiIWMvTUHJPEgYGF0maQsIiuCzLJY1wkeB3dwlKMNcpVyE_aem_DBZtPPgR3ZhllXE73NZ39A)
