@@ -1,5 +1,16 @@
 # Hyper-V
 
+## 相關指令
+
+```PowerShell
+Get-VMSwitch * | Format-Table Name
+Mount-VHD
+Mount-DiskImage -comm -ImagePath 'c:\VolumeD.vhdx'
+pwsh.exe -command {Mount-DiskImage -ImagePath 'c:\VolumeD.vhdx'}
+pwsh.exe -command {Mount-VHD -Path 'c:\VolumeD.vhdx'}
+Dismount-DiskImage
+```
+
 ## Windows Server
 
 1. 新增 Hyper-V 功能

@@ -9,23 +9,23 @@
 - [檔案系統管理](WinAdmin/檔案系統管理.md)
 - [Win Service 操作](WinAdmin/WinService操作.md)
 - [Win環境變數](WinAdmin/Win環境變數.md)
-- [Remote-Desktop-Protocol](WinAdmin/Remote-Desktop-Protocol.md)
 - [Registry](WinAdmin/Registry.md)
-
-## 插件
-
-- [Oh My Posh](https://ohmyposh.dev/)
-- [posh-git: A PowerShell environment for Git](https://github.com/dahlbyk/posh-git)
-- [ZLocation: ZLocation is the new Jump-Location](https://github.com/vors/ZLocation)
-- [gsudo Documentation](https://gerardog.github.io/gsudo/)
-- [Terminal-Icons: A PowerShell module to show file and folder icons in the terminal](https://github.com/devblackops/Terminal-Icons)
+- [Remote-Desktop-Protocol](WinAdmin/Remote-Desktop-Protocol.md)
 
 ## 雜記
 
+- 修改開機啟動應用程式
+  desk.cpl→應用程式→啟動
+- PowerShell PSReadLine歷史紀錄
+  ```PowerShell
+  C:\Users\user\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+  ```
+- [windows运行命令大全 - 知乎](https://zhuanlan.zhihu.com/p/135297234)
+- [使用指令管理 Microsoft Windows Server :: 2011 iT 邦幫忙鐵人賽](https://ithelp.ithome.com.tw/users/20005121/ironman/332)
 - 在Windows與Linux使用PowerShell應該釐清各作業系統的內建指令與PowerShell cmd-let指令.
   Windows與Linux內建指令還是必須要學，然後使用 PowerShell 整合棄用Bash.
   但務求操作步驟一致而不用重新學習.
-- PowerShell Markdown
+- keyword：PowerShell Markdown
 - [about_Providers - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_providers?view=powershell-7.5)
 - [Powershell Array](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_arrays)
 - [.NET Console Class](https://learn.microsoft.com/en-us/dotnet/api/system.console)
@@ -38,10 +38,10 @@
 
 ## References
 
+- [Windows commands | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 - [PowerShell Documentation - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/)
+- [Windows Server Management documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/manage-windows-server)
 - [圖書：30天挑戰精通 Powershell](https://webpacx.ksml.edu.tw/bookDetail/1775845)
-- [Windows 終端機推薦 — Windows Terminal 美化。將 Terminal 改造成你喜歡的樣子！😍 | by Molly Chi | Medium](https://molly1024.medium.com/windows-%E7%B5%82%E7%AB%AF%E6%A9%9F%E6%8E%A8%E8%96%A6-windows-terminal-%E7%BE%8E%E5%8C%96-%E5%B0%87-terminal-%E6%94%B9%E9%80%A0%E6%88%90%E4%BD%A0%E5%96%9C%E6%AD%A1%E7%9A%84%E6%A8%A3%E5%AD%90-9f6835951837)
-- [如何打造一個華麗又實用的 PowerShell 命令輸入環境 | The Will Will Web](https://blog.miniasp.com/post/2021/11/24/PowerShell-prompt-with-Oh-My-Posh-and-Windows-Terminal)
 
 ## Windows PowerShell 5.1
 

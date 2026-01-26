@@ -2,6 +2,8 @@
 
 [Chat－備份環境 Windows 環境變數](https://chatgpt.com/g/g-ZpZUQbCxM-vs-code-copilot/c/6922e25f-1a4c-8323-8aa7-0ea6995c9bec)
 
+[[Registry]]
+
 ## 記事
 
 - %APPDATA% 此種寫法只在進階系統設定或檔案總管有效，PowerShell指令碼無效
