@@ -1,0 +1,7 @@
+- [Playwright](https://playwright.dev/)
+- [puppeteer vs webdriverio vs selenium-webdriver vs nightwatch | "自動化測試工具"npm套件對比](https://npm-compare.com/zh-TW/nightwatch,puppeteer,selenium-webdriver,webdriverio)
+- [Puppeteer | Puppeteer](https://pptr.dev/)
+- [WebdriverIO](https://webdriver.io/)
+- [FB 社團爬蟲實作範例﹍使用 Node.js 操作 Puppeteer＠WFU BLOG](https://tw.wfublog.com/2023/06/blog-post.html?m=1)
+- [MCP Registry | Playwright](https://github.com/mcp/microsoft/playwright-mcp)
+- 
