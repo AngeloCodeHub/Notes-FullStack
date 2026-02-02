@@ -1,0 +1,14 @@
+# Obsidian vault config
+.obsidian/workspace*.json
+
+# draw.io backup files
+*.drawio.bkp
+
+# output
+out
+dist
+*.tgz
+
+# code coverage
+coverage
+*.lcov
