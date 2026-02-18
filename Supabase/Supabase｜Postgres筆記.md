@@ -6,17 +6,13 @@
 - [MySQL – Open VSX Registry](https://open-vsx.org/extension/cweijan/vscode-mysql-client2)
 - [Supabase - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension)  
   說明：整合 Copilot
-- Docker 容器：[Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)、[Container Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
+- Docker 容器vscode extension：[Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)、[Container Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
 - [[LSP筆記]]：Postgres Language Server
 - [1000+ PostgreSQL EXTENSIONs](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47)
-- [Azure Database for PostgreSQL documentation landing page | Microsoft Learn](https://learn.microsoft.com/en-us/azure/postgresql/)
-
-## 筆記
-
-- [Chat－Socail Auth問題](https://gemini.google.com/app/86d8bab3beb3074f)
 
 ## 教學
 
+- [Learn Postgres - YouTube](https://www.youtube.com/playlist?list=PL5S4mPUpp4Ote6F9ScnXevuOyCnvzahRV)
 - [PostgreSQL Course for Beginners](https://www.freecodecamp.org/news/posgresql-course-for-beginners)
 - [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
 - [PostgreSQL 正體中文使用手冊](https://docs.postgresql.tw/)
@@ -29,26 +25,32 @@
 
 ## References
 
+- [Chat－Postgres架構](https://chatgpt.com/c/6968192e-3708-8320-bc49-1db678babb35)
 - [Chat－Authentication user欄位釋疑](https://chatgpt.com/c/6958b4bf-f3f0-8323-9800-954726d5d6cb)
 - [Chat－self-hosting Supabase cli](https://gemini.google.com/app/688abebe237ac1f3)
 - [Chat－Next.js與supabase代理模式建置](https://chatgpt.com/c/6940bf9c-ab94-8324-b7db-f3217fbad471)
 - [Chat－Supabase 學習路線圖](https://chatgpt.com/c/692f81a5-1d2c-8328-9f97-29fa982d6786)
-- [Supabase public資料庫與table設計+多租戶](https://chatgpt.com/c/6949c1fb-ee70-8323-8de8-c841e62cf07f)
+- [Chat－Supabase public資料庫與table設計+多租戶](https://chatgpt.com/c/6949c1fb-ee70-8323-8de8-c841e62cf07f)
 - [Chat－自架時使用 cli方式](https://gemini.google.com/app/688abebe237ac1f3)
 - [Chat－postgres rest與anon key](https://gemini.google.com/app/c2038d40f41ab581)
 - [Chat－Supabase RLS vs MySQL 權限機制](https://gemini.google.com/app/09f71fbcff2501c7)
 - [Chat－Supabase API 產生與規則解析](https://gemini.google.com/app/1e145ec4e106c51d)
-- [Encoding Vs Encryption Vs Tokenization](https://www.facebook.com/reel/2121781895313578)
-- [Which Authentication to Use? A Comparison of 4 Popular Approaches - DEV Community](https://dev.to/leapcell/which-authentication-to-use-a-comparison-of-4-popular-approaches-24jc)
-- [Coding Tips - 𝗪𝗵𝗮𝘁 𝗮𝗿𝗲 𝗝𝗦𝗢𝗡 𝗪𝗲𝗯 𝗧𝗼𝗸𝗲𝗻𝘀 (𝗝𝗪𝗧)? | Facebook](https://www.facebook.com/story.php?story_fbid=122146296278719718&id=61571591542566&post_id=61571591542566_122146296278719718)
 - [PostgREST Documentation — PostgREST 14 documentation](https://docs.postgrest.org/)
 - [Neon Serverless Postgres — Ship faster](https://neon.com/)
 - [Supabase Full Course 2025 | Become a Supabase Pro in 1.5 Hours](https://www.youtube.com/watch?v=kyphLGnSz6Q)
+- [Azure Database for PostgreSQL documentation landing page | Microsoft Learn](https://learn.microsoft.com/en-us/azure/postgresql/)
 - [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
 - [Prisma | Instant Postgres plus an ORM for simpler db workflows](https://www.prisma.io/)
 - [PostgreSQL 角色權限 Roles and Privileges | PJCHENder I/O](https://pjchender.dev/database/psql-roles-privilege/)
 - [pgcli](https://www.pgcli.com/)
-- [Chat－Postgres資料庫備份](https://www.perplexity.ai/search/ru-he-bei-fen-supabasezi-liao-jftOPoh6T1Olj3vBM_m8bA)
+
+## References－Postgres.Org
+
+- [PostgreSQL: Documentation: 17: SQL Commands](https://www.postgresql.org/docs/17/sql-commands.html)
+- [PostgreSQL: Documentation: 17: Appendix C. SQL Key Words](https://www.postgresql.org/docs/17/sql-keywords-appendix.html)
+- [PostgreSQL: Documentation: 17: Part II. The SQL Language](https://www.postgresql.org/docs/17/sql.html)
+- [PostgreSQL: Documentation: 17: CREATE POLICY](https://www.postgresql.org/docs/17/sql-createpolicy.html)
+- [PostgreSQL: Documentation: 17: 5.9. Row Security Policies](https://www.postgresql.org/docs/17/ddl-rowsecurity.html)
 
 ## FAQ
 
@@ -56,7 +58,7 @@
 - [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)  
       service role key 是不能公開的
 
-## Postgres node.js SDK
+## Postgres Javascript SDK
 
 - [porsager/postgres: Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare](https://github.com/porsager/postgres)
 - [node-postgres](https://node-postgres.com/)
@@ -72,6 +74,6 @@
   Shadcn
 - 基礎套件
   ```PowerShell
-  npx create-next-app -e with-supabase
+  create-next-app -e with-supabase
   ```
 

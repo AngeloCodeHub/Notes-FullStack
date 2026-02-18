@@ -1,6 +1,6 @@
 # Vanilla 必須熟練主題
 
-[HTML、CSS、Javascript AI 課程規劃](https://chatgpt.com/share/6937ed1f-462c-8006-96a2-953d8c5742ab)
+[Chat－HTML、CSS、Javascript AI 課程規劃](https://chatgpt.com/share/6937ed1f-462c-8006-96a2-953d8c5742ab)
 
 ## HTML 
 

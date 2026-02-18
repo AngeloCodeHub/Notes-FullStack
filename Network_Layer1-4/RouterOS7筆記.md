@@ -1,6 +1,7 @@
 # RouterOS7
 
 ### 雜七雜八
+- [ip2location下載mikrotik ip 國家資料](https://www.ip2location.com/free/visitor-blocker)
 - [pppoe keepalive timeout意義](https://help.mikrotik.com/docs/spaces/ROS/pages/2031625/PPPoE#PPPoE-Accessconcentrator)
   設定為10秒，在10秒內沒有封包傳送則判定為斷開
 - [routeros入门到精通74e.pdf](http://www.irouteros.com/download.php)

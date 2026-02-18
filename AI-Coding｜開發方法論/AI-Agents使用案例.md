@@ -1,6 +1,3 @@
-## 網址
-
-- [Anthropic（Claude）全能應用](https://www.facebook.com/groups/markincome/permalink/1061587282755569)
 
 ## Agents 案例
 

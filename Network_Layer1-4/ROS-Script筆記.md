@@ -15,3 +15,4 @@
     
 - get是從一條規則取出參數值，find 從參數的值找出item
 - 背景執行script指令：execute
+- [eworm-de/routeros-scripts: a collection of scripts for MikroTik RouterOS](https://github.com/eworm-de/routeros-scripts)

@@ -7,6 +7,7 @@
 
 ## Playwright 文件
 
+- [microsoft/playwright-cli: CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.](https://github.com/microsoft/playwright-cli)
 - [Playwright 官方文件](https://playwright.dev/)
 - [Playwright 保哥翻譯](https://playwright.tw/)
 

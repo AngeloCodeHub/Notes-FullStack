@@ -2,13 +2,18 @@
 
 ## 筆記
 
-- [AGENTS.md](https://agents.md/)
+
 - 規格為王
 - 規格是全部人員都看得懂
 - 敏捷、scrum
 
+## FAQ
+
+- 如果已經 archived要如何迭代?
+
 ## SDD理論
 
+- rfc2119
 - [開發方法論](開發方法論.md)
 - [從規格到程式：我對 SDD、BDD、TDD 的一點想法（以 Kiro 與高鐵早鳥票為例） | 轉念學 - 敏捷三叔公的學習之旅](https://agile3uncles.com/2025/10/08/sdd-bdd-tdd-kiro/)
 - [撰寫一份好寫又好懂的Spec](https://www.tpisoftware.com/tpu/articleDetails/1231)
@@ -28,8 +33,8 @@
 - [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
 - [AI编程必学，规范(spec)驱动编程入门与实战 - YouTube](https://www.youtube.com/watch?v=vMXzB5nH6Ec)
 - [🚀开发者福音！现有项目用AI迭代？OpenSpec规范驱动开发！让AI按规范写代码，真正做到零失误！支持Cursor、Claude Code、Codex！比SpecKit更强大！三分钟为iOS新增功能 - YouTube](https://www.youtube.com/watch?v=ANjiJQQIBo0)
-- [Agent Skills傻瓜式教程！26年最火AI技术就这？ - YouTube](https://www.youtube.com/watch?v=8NGznVwNHGY)
 - [OpenSpec - 規格驅動開發：讓 AI 程式設計師和人類達成共識的輕量級工作流](https://brain.botrun.ai/articles/openspec-spec-driven-development/index.html)
+- [OpenSpec 讓 SDD 變簡單的三個指令 | 高見龍](https://kaochenlong.com/openspec)
 
 ## GitHub Spec-Kit
 
@@ -45,6 +50,7 @@
 - [《Spec Kit开发》 - 严富坤的知识库专栏(yanfukun.com)](https://www.yanfukun.com/books/spec-kit)
 - [軟體開發之路 | 這是 SDD, Spec Driven Development 從無到有的以六角架構設計車輛租用系統的範例影片 | Facebook](https://www.facebook.com/groups/361804473860062/posts/%E9%80%99%E6%98%AF-sdd-spec-driven-development-%E5%BE%9E%E7%84%A1%E5%88%B0%E6%9C%89%E7%9A%84%E4%BB%A5%E5%85%AD%E8%A7%92%E6%9E%B6%E6%A7%8B%E8%A8%AD%E8%A8%88%E8%BB%8A%E8%BC%9B%E7%A7%9F%E7%94%A8%E7%B3%BB%E7%B5%B1%E7%9A%84%E7%AF%84%E4%BE%8B%E5%BD%B1%E7%89%87sdd-%E6%98%AF%E6%9C%80%E8%BF%91%E7%81%AB%E7%B4%85%E7%9A%84%E9%96%8B%E7%99%BC%E6%A8%A1%E5%BC%8F%E5%BC%B7%E8%AA%BF%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E5%BE%9E-sour/32103529985927431/)
 - [AI 時代，一定要學會使用 GitHub spec kit — SDD 規格驅動開發 | by Milk Midi | Oct, 2025 | Medium](https://milkmidi.medium.com/ai-%E6%99%82%E4%BB%A3-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%B8%E6%9C%83%E4%BD%BF%E7%94%A8-github-spec-kit-sdd-%E8%A6%8F%E6%A0%BC%E9%A9%85%E5%8B%95%E9%96%8B%E7%99%BC-f2df57cfdf3c)
+- [Github spec-kit 初體驗 | Cash Wu Geek](https://blog.cashwu.com/blog/2025/github-spec-kit-first-experience)
 - [gotalab/cc-sdd: Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Windsurf.](https://github.com/gotalab/cc-sdd?fbclid=IwY2xjawOTBWtleHRuA2FlbQIxMABicmlkETFJVnQ4ME1BS2hoWEpVTDhNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuaOFMe_T4_87QTiIWMvTUHJPEgYGF0maQsIiuCzLJY1wkeB3dwlKMNcpVyE_aem_DBZtPPgR3ZhllXE73NZ39A)
 
 ## Keyword

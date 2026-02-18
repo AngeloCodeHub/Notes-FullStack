@@ -19,8 +19,6 @@ SHIFT+ALT+A：區塊註解
 
 CTRL+/：行註解
 
-#：region
-
 CTRL+Shift+O：跳至某Symbol
 
 CTRL+T：搜尋某Symbol

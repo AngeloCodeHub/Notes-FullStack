@@ -2,6 +2,7 @@
 
 ## 記事
 
+- [跟著Docker隊長 : 修練22天就精通](https://webpacx.ksml.edu.tw/bookDetail/1718107)
 - Windows Docker Desktop的Docker主要指令是放在另一個wsl image：docker-desktop.
   要完全分開需要創造另一個wsl並讓Docker Desktop不要連結
 - Docker data disk 容量過大問題.
@@ -17,7 +18,7 @@
 - Docker 容器也有自己的環境變數
 - 映像檔與映像層：映像層就dockerfile裡的每一行指令，不同的映像檔與容器可共用同一個映像層.
   每一行dockerfile都一個雜湊，雜湊被破壞了就得重新執行指令
-- [Docker hub 推送排查](https://gemini.google.com/app/c_98e22ccbb550b80f)
+- [Chat－Docker hub 推送排查](https://gemini.google.com/app/c_98e22ccbb550b80f)
 - 容器有一個可寫層，container停止時不會刪除內容
 
 ## Dockerfile
