@@ -1,4 +1,16 @@
-# Agents MCP Skills 學習筆記
+# Agents賦能
+
+自訂 Agent，賦予AI能力
+
+## 賦能類型
+
+1. Skills
+2. MCP
+3. 模型
+4. Hooks
+5. 工具 extensions/Plugins
+6. Prompt
+7. Agents
 
 ## Marketplace
 

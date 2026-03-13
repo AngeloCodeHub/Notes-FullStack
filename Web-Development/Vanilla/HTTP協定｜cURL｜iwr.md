@@ -11,6 +11,12 @@
 - （Cheat Sheet）[4 Ways To Make an API Call in JavaScript](https://www.facebook.com/techtheworld480/posts/pfbid0222tdhEAjQSm2C3sj9ZZeHBFEi4gcT493t2aRrcyELa5zFh7quJAhJbshnCj1yE8zl)
 - [JavaScript 和 React 中的 API 處理：從基礎到專業級](https://codelove.tw/@tony/post/qZW2lx#react)
 
+## cURL
+
+- 下載檔案  
+  
+  `curl -OL https://example.com/a.zip`
+
 ## Notes
 
 - 程式或系統透過API互相溝通
@@ -28,6 +34,7 @@
 
 ## References
 
+- [Chat－cURL下載檔案](https://www.perplexity.ai/search/curl-o-https-github-com-supaba-IBR3M2qcSayWF7gVudKgUg)
 - [HTTP Methods GET vs POST](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - [Using HTTP cookies - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies)
 - [HTTP headers - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers)

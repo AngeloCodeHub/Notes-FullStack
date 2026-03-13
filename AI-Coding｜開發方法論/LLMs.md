@@ -7,6 +7,7 @@
 - [OpenRouter模型串接服務](https://openrouter.ai/)
 - [Ollama](https://ollama.com/)
 - [Groq is fast, low cost inference.](https://groq.com/)
+- [SiliconFlow – AI Infrastructure for LLMs & Multimodal Models](https://www.siliconflow.com/)
 
 ## 主流
 

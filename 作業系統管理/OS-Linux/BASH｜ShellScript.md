@@ -9,3 +9,5 @@
   ```Bash
   export PS1='\W\$'
   ```
+- [Caht－Bash複製當前指令](https://www.perplexity.ai/search/linux-bash-ru-he-bu-shi-yong-h-i_aIOxpsTBKNpsHStajn6A)
+- [Bash Shell 快速鍵 - Tsung's Blog](https://blog.longwin.com.tw/2006/09/bash_hot_key_2006/)
