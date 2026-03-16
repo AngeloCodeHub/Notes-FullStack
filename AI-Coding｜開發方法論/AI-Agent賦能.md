@@ -2,15 +2,20 @@
 
 自訂 Agent，賦予AI能力
 
+## 注意事項
+
+- 避免上下文汙染
+
 ## 賦能類型
 
-1. Skills
-2. MCP
-3. 模型
-4. Hooks
-5. 工具 extensions/Plugins
-6. Prompt
-7. Agents
+1. SDD Agent
+2. Skills
+3. MCP
+4. 模型
+5. Hooks
+6. 工具 extensions/Plugins
+7. Prompt
+8. Agents
 
 ## Marketplace
 

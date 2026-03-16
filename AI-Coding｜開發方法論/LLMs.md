@@ -1,5 +1,7 @@
 # LLMs 蒐集與知識
 
+## 模型串接服務
+
 - 三大雲端模型串接  
   AWS：Amazon Bedrock  
   GCP：Vertex AI  
@@ -8,6 +10,7 @@
 - [Ollama](https://ollama.com/)
 - [Groq is fast, low cost inference.](https://groq.com/)
 - [SiliconFlow – AI Infrastructure for LLMs & Multimodal Models](https://www.siliconflow.com/)
+- Cline
 
 ## 主流
 

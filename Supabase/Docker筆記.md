@@ -1,5 +1,11 @@
 # 開發環境配置
 
+## 純WSL
+
+- 使用帳密登入：Email
+- Windows與linux儲存方式不同，Linux下
+  刪除`~/docker/config.json`
+
 ## 記事
 
 - [跟著Docker隊長 : 修練22天就精通](https://webpacx.ksml.edu.tw/bookDetail/1718107)

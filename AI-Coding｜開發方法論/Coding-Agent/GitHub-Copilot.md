@@ -40,7 +40,7 @@
   全域 instructions
 - copilot設定檔  
   `C:\Users\user\.copilot\config.json`
-- 全域 Skills  
+- 全域 Skills（Linux）  
   `~/.copilot/skills`  
   `~/.agents/skills`
 - 全域MCP  

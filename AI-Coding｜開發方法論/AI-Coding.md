@@ -14,6 +14,7 @@
 
 ## 雜記
 
+- 工具要區分給人類使用或AI使用
 - [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
 - ReadME.md是給人類讀的，Agents.MD是給AI
 - 一個 Agent Session（或 Chat Session）負責一個任務，一個Agent Session可以包含 Tools、MCP、Prompt、Skills、instruction。統稱一個 Agent session的Context
