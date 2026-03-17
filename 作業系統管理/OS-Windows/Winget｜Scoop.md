@@ -25,6 +25,7 @@
 
 - 全域位置  
   `C:\Program Files\WinGet\Packages`
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
 - [WinGet | Microsoft Learn --- WinGet | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/)
 - 使用者 Windows Store應用程式路徑與winget安裝的程式路徑
   ```PowerShell

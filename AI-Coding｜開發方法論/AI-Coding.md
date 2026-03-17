@@ -8,6 +8,7 @@
 - [[GitHub-Copilot]]
 - [[Antigravity｜Gemini-CLI]]
 - [ClaudeCode｜OpenCode](ClaudeCode｜OpenCode.md)
+- [Cline - AI Coding, Open Source and Uncompromised](https://cline.bot/)
 - Qwen Code
 - [Kiro](Kiro.md)
 - OpenAI Codex（VSCode Ext｜Codex CLI）

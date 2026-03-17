@@ -14,8 +14,7 @@
 ## cURL
 
 - 下載檔案  
-  
-  `curl -OL https://example.com/a.zip`
+  `curl -O -L https://example.com/a.zip`
 
 ## Notes
 
@@ -34,13 +33,17 @@
 
 ## References
 
-- [Chat－cURL下載檔案](https://www.perplexity.ai/search/curl-o-https-github-com-supaba-IBR3M2qcSayWF7gVudKgUg)
+- [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
+- [Kikobeats/awesome-api: A curated list of awesome resources for design and implement RESTful API's.](https://github.com/Kikobeats/awesome-api)
+- [cporter202/API-mega-list: This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪](https://github.com/cporter202/API-mega-list?tab=readme-ov-file)
+- [Chat－cURL下載檔案-1](https://www.perplexity.ai/search/curl-o-https-github-com-supaba-IBR3M2qcSayWF7gVudKgUg)
+- [Chat－cURL下載檔案-2](https://www.perplexity.ai/search/yi-xia-wang-zhi-ge-shi-zai-liu-on8p4o8JQue1AsUgt3qzVg)
+- [Chat－cURL在Linux下版本問題](https://www.perplexity.ai/search/curlshi-ubuntu-linuxxia-chang-F5CfJs6rR4SP9VKEzWQWPw)
 - [HTTP Methods GET vs POST](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - [Using HTTP cookies - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies)
 - [HTTP headers - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers)
 - [HTTP 簡介，以及使用telnet、nc、curl等指令來探索 | HoMuChen](https://homuchen.com/posts/http-introduction-telnet-nc-curl/)
 - [HTTP headers 簡介: 一些常用的headers | HoMuChen](https://homuchen.com/posts/http-headers/)
-- [Chat-windows11 cURL路徑問題](https://www.perplexity.ai/search/wo-xiang-yao-geng-xin-windows1-5utSB53XTlGiHM8d8ixGqA#1)
 - [cURL－官網](https://curl.se/)
 - [後知後覺新發現 - 原來 Windows 已內建 curl (附常用語法範例)-黑暗執行緒](https://blog.darkthread.net/blog/win-builtin-curl/)
 - [Main HTTP Methods | Facebook](https://www.facebook.com/100012372696048/posts/2332283827194018)

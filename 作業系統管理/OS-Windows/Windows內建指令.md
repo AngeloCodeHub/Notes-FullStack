@@ -24,4 +24,5 @@
   ```PowerShell
   powercfg.exe # 電源管理
   schtasks # Windows 排程管理，取代 at
+  CHKDSK.exe
   ```

@@ -1,18 +1,24 @@
 # LLMs 蒐集與知識
 
-## 模型串接服務
+## 雲端模型串接服務
 
 - 三大雲端模型串接  
   AWS：Amazon Bedrock  
   GCP：Vertex AI  
   Azure：Azure AI Foundry－[Azure AI Foundry與Azure OpenAI介紹](https://copilot.microsoft.com/chats/XmztvFUQjHH5QthgYX29f)
 - [OpenRouter模型串接服務](https://openrouter.ai/)
-- [Ollama](https://ollama.com/)
 - [Groq is fast, low cost inference.](https://groq.com/)
 - [SiliconFlow – AI Infrastructure for LLMs & Multimodal Models](https://www.siliconflow.com/)
 - Cline
+- [APIYI](https://api.apiyi.com/)
 
-## 主流
+## Local地端架設
+
+- [LM Studio - Local AI on your computer](https://lmstudio.ai/)
+- [Ollama](https://ollama.com/)
+- [any-llm platform: Simplified management and analytics for LLM providers](https://any-llm.ai/)
+
+## 官方原廠
 
 - OpenAI
 - Claude
