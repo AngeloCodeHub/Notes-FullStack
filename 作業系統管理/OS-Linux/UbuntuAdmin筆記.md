@@ -2,6 +2,8 @@
 ## 雜記
 
 - [The Linux Documentation Project](https://tldp.org/)
+- [Tecmint: Linux Howtos, Tutorials & Guides](https://www.tecmint.com/)
+- [鳥哥私房菜 - 鳥哥的首頁](https://linux.vbird.org/)
 
 ## 更改 SSH Port
 

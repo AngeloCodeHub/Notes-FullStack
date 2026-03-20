@@ -1,12 +1,28 @@
 
-## 開發環境配置
+## FAQ
 
+- [x] supabase-cli config 指定id會自動link嗎?  
+      A：會，當db pull會自動連結
+- [ ] supabase/seed.sql 是作什麼用?
+- [x] supabase的branch如何使用?  
+      A：分支只有pro plan能使用
+- [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)  
+      service role key 是不能公開的
+
+## Notes
+
+- cli db pull是拉一份migration
+
+## 開發環境與工具
+
+- Supabase-CLI
+- psql、pgdump
+- Pgadmin
 - [PostgreSQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql)  
   說明：連接 Posgres資料庫，直截編寫sql並執行
 - [MySQL – Open VSX Registry](https://open-vsx.org/extension/cweijan/vscode-mysql-client2)
 - [Supabase - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension)  
-  說明：整合 Copilot
-- Docker 容器vscode extension：[Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)、[Container Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
+  整合 Copilot
 - [[LSP筆記]]：Postgres Language Server
 - [1000+ PostgreSQL EXTENSIONs](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47)
 
@@ -52,11 +68,6 @@
 - [PostgreSQL: Documentation: 17: CREATE POLICY](https://www.postgresql.org/docs/17/sql-createpolicy.html)
 - [PostgreSQL: Documentation: 17: 5.9. Row Security Policies](https://www.postgresql.org/docs/17/ddl-rowsecurity.html)
 
-## FAQ
-
-- [ ] supabase的branch如何使用
-- [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)  
-      service role key 是不能公開的
 
 ## Postgres Javascript SDK
 

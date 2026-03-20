@@ -6,20 +6,33 @@
 - Windows與linux儲存方式不同，Linux下
   刪除`~/docker/config.json`
 
+## 開發環境與工具
+
+- Docker 容器vscode extension  
+  [Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)  
+  [Container Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
+
+## FAQ
+
+- [ ] 什麼是 Hardened Images
+
 ## 記事
 
-- [跟著Docker隊長 : 修練22天就精通](https://webpacx.ksml.edu.tw/bookDetail/1718107)
-- Windows Docker Desktop的Docker主要指令是放在另一個wsl image：docker-desktop.
-  要完全分開需要創造另一個wsl並讓Docker Desktop不要連結
-- Docker data disk 容量過大問題.
-  [Chat](https://gemini.google.com/app/bd769e2740ff3fde)  
+- Docker 憑證問題與登入方式  
+  WSL中憑證始終儲存為 Desktop.exe  
+  改掉後Docker重啟又會被Docker Desktop改回來，因 WSL 中讀取不到憑證導致Docker無法pull image（但可以啟動container）  
+  解決方式1：pull 時在 windows main系統pull（需要compose.yml），使用 Windows憑證  
+  解決方式2：手動臨時更改 ~/.docker/config.json
+- 在 WSL Athuntcation常常會跑掉，直接在 Windows下指令
+- [實體書－跟著Docker隊長 : 修練22天就精通](https://webpacx.ksml.edu.tw/bookDetail/1718107)
+- [Chat－Docker data disk 容量過大問題](https://gemini.google.com/app/bd769e2740ff3fde)
 - [Chat－Docker與實體機原理](https://gemini.google.com/app/b4db90abb9092e93)
 - [Localhost 8080 port 權限不足問題](https://chatgpt.com/share/694a81c0-0334-8006-a3fb-ae95ed8b6aee)
 - [nginx forbidden 解決](https://chatgpt.com/share/694a99e1-a75c-8006-8d0c-4d9e4f64138a)
 - Docker要解決的是==*軟體密集度、隔離環境* ==
   軟體密集度是盡可能有效應用電腦的資源，Docker在軟體密集度效率比VM好
 - Container是共享 host os的資源
-- 容器分 linux容器與windows容器，只能在與host os相同才能跑 container
+- 容器分 linux容器與windows容器，只能在與host os相同才能跑 container  
   Windows能跑linux容器是因為有wsl
 - Docker 容器也有自己的環境變數
 - 映像檔與映像層：映像層就dockerfile裡的每一行指令，不同的映像檔與容器可共用同一個映像層.

@@ -1,4 +1,5 @@
 
+- [Chat－某些Port被Windows保留問題](https://chatgpt.com/c/694a8077-5a68-8322-a6be-ca6cbff63e47)
 - Firewall GUI
   ```PowerShell
   firewall.cpl
