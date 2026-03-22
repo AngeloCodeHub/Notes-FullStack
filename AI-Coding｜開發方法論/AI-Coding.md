@@ -1,22 +1,22 @@
 # AI Coding Tools
 
-[[LLMs]]  
-[[訂閱｜API｜Token｜成本]]
+[[LLMs知識]]  
+[[訂閱｜API｜Token｜成本]]  
+[AI工具彙整](https://docs.google.com/spreadsheets/d/1mlsNYyfMTUoTWJZrxYvp3bGP_4bZ7cz4oOf-M5FQbMM)
 
 ## Coding工具（CLI、IDE）
 
 - [[GitHub-Copilot]]
 - [[Antigravity｜Gemini-CLI]]
-- [ClaudeCode｜OpenCode](ClaudeCode｜OpenCode.md)
-- [Cline - AI Coding, Open Source and Uncompromised](https://cline.bot/)
-- Qwen Code
+- [Claude｜OpenCode](Claude｜OpenCode.md)
 - [Kiro](Kiro.md)
 - OpenAI Codex（VSCode Ext｜Codex CLI）
 
 ## 雜記
 
+- [張維峰 - 現在大家最常煩惱的不是不想用AI，而是不知道要使用在什麼情境，Anthropic 官方網站整理了 75 個 Claude... | Facebook](https://www.facebook.com/story.php?story_fbid=10239686737081674&id=1089725894&post_id=1089725894_10239686737081674)
+- [邱煜庭 - AI 時代如果你真的想「學 AI」，請記得以下十件事情 | Facebook](https://www.facebook.com/1656852303/posts/10228900503211472)
 - 工具要區分給人類使用或AI使用
-- [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
 - ReadME.md是給人類讀的，Agents.MD是給AI
 - 一個 Agent Session（或 Chat Session）負責一個任務，一個Agent Session可以包含 Tools、MCP、Prompt、Skills、instruction。統稱一個 Agent session的Context
 
@@ -30,6 +30,8 @@
 
 - [高見龍 - 我之前比較偏向 Martin Fowler 的看法，但隨著 AI 越來越厲害... | Facebook](https://www.facebook.com/701302536/posts/10160610897292537)
 - [Obsidian × Claude Code：打造「自動整理」工作流，靠 Skills 徹底解放雙手 - YouTube](https://www.youtube.com/watch?v=1Nttr6PVebE)
+- [Artifacts（工件）的解釋](https://www.perplexity.ai/search/xu-duo-ai-agentdu-hui-ti-dao-a-CA5rqFJjThq3ygJ.gKuSvg#080e6ba8-5263-4e1a-b7ca-027e80ab92be)  
+  工件（Artifacts）：工件是代理程式為實現更豐富對話體驗所產生的文件或視覺內容
 - awesome openclaw
 - [Agent Client Protocol（ACP）](https://agentclientprotocol.com/)
 - [Start building with Gemini 3 - DEV Community](https://dev.to/googleai/start-building-with-gemini-3-268h)

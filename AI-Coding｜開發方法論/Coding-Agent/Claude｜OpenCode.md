@@ -6,6 +6,11 @@
 
 ## References
 
+- [AI Learning Resources & Guides from Anthropic \ Anthropic](https://www.anthropic.com/learn)
+- [張維峰 - Claude Cowork 的五層架構：從工具變成環境的完整指南 | Facebook](https://www.facebook.com/story.php?story_fbid=10239572312421129&id=1089725894&post_id=1089725894_10239572312421129)
+- [【免費送你 144 位專業員工的開源專案】 ​這家開源的虛擬公司，免費送你 144 位專業 AI 員工 | Facebook](https://www.facebook.com/story.php?story_fbid=1460829262345238&id=100052545349969&post_id=100052545349969_1460829262345238)
+- [Anthropic just launched Anthropic Academy | Facebook](https://www.facebook.com/61568102501044/posts/122180393102603416)
+- [AI 思維實驗室：只講真話的操作筆記 | Claude AI三工具協奏曲：Chat、Cowork、Code | Facebook](https://www.facebook.com/groups/572073306000708/permalink/641735475701157)
 - [Anthropic（Claude）全能應用](https://www.facebook.com/groups/markincome/permalink/1061587282755569)
 - [Claude Code overview - Claude Code Docs](https://code.claude.com/docs)
 - [awesome-opencode: A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai](https://github.com/awesome-opencode/awesome-opencode)
@@ -15,12 +20,9 @@
 - [🚀开源界的Claude Code来了！生产力核弹opencode深度使用体验，LSP完整支持，Token消耗一目了然，程序员福音！支持Antigravity IDE！结合OpenSpec规格驱动开发！ - YouTube](https://www.youtube.com/watch?v=_h2MGwJO1Yc)
 - [告別每天的重複性任務：AI + n8n 中小企業自動化生存術 :: 2025 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20124621/ironman/8395)
 - [OpenCode vs Claude Code](https://www.builder.io/blog/opencode-vs-claude-code)
-- claude code vs opencode
 - [oh-my-opencode: The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.](https://github.com/code-yeongyu/oh-my-opencode?tab=readme-ov-file#step-2-run-the-installer)
 - [海拉魯編程客 - Claude Code 用了 30 天，我再也回不去从零手写代码了 | 编程正式从「胶卷时代」正式迈入「数码时代」| Vibe Coding](https://www.youtube.com/watch?v=sOvi9Iu1Dq8)
 - [Agent Skills - Claude Code Docs](https://code.claude.com/docs/en/skills)
 - [BMAD 終極用法，搭配 Claude Code | Facebook](https://www.facebook.com/groups/366863238003058/permalink/1511876523501718)
-- [Claude Code 通過 Spec Workflow 實現規格驅動開發 | 余小章 @ 大內殿堂 - 點部落](https://dotblogs.com.tw/yc421206/2025/09/07/claude_code_via_spec_workflow_ai_driven_software_development)
-- [Github spec-kit 初體驗 | Cash Wu Geek](https://blog.cashwu.com/blog/2025/github-spec-kit-first-experience)
 - [Claude Code Sub-agents 使用最佳實踐：20 小時測試後的經驗分享 | Cash Wu Geek](https://blog.cashwu.com/blog/2025/claude-code-sub-agents-best-practices)
 - [Claude Code 教學：5 分鐘完成安裝與第一個任務 | WenHao Yu](https://yu-wenhao.com/zh-TW/blog/claude-code-tutorial)

@@ -2,10 +2,11 @@
 
 ## 筆記
 
-
 - 規格為王
 - 規格是全部人員都看得懂
 - 敏捷、scrum
+- [Claude Code 通過 Claude Code PM 實現規格驅動開發 | 余小章 @ 大內殿堂 - 點部落](https://dotblogs.com.tw/yc421206/2025/09/13/claude_code_via_claude_code_pm_impl_spec_driven_software_development)
+- [林鼎淵 - ❝開發系統的人不用系統，會用系統的人不會開發❞ 這句話，是客戶在需求訪談時親口說的 | Facebook](https://www.facebook.com/100001123361906/posts/26258543157099772)
 
 ## FAQ
 
@@ -38,6 +39,8 @@
 
 ## GitHub Spec-Kit
 
+- [Github spec-kit 初體驗 | Cash Wu Geek](https://blog.cashwu.com/blog/2025/github-spec-kit-first-experience)
+- [Claude Code 通過 Spec Workflow 實現規格驅動開發 | 余小章 @ 大內殿堂 - 點部落](https://dotblogs.com.tw/yc421206/2025/09/07/claude_code_via_spec_workflow_ai_driven_software_development)
 - [github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 - [Spec Kit實作記錄 - HackMD](https://hackmd.io/@shaoeChen/rJ0wY4OCxe)
 - [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)

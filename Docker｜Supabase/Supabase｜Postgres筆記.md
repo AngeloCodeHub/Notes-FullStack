@@ -8,6 +8,7 @@
       A：分支只有pro plan能使用
 - [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)  
       service role key 是不能公開的
+- [ ] self-hosting需要安裝 Deno嗎?
 
 ## Notes
 

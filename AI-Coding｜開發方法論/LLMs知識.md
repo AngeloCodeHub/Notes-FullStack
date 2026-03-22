@@ -1,30 +1,34 @@
-# LLMs 蒐集與知識
+# LLMs 知識
+
+## LLM官方介紹
+
+- [Introducing GPT-5.4 | OpenAI](https://openai.com/index/introducing-gpt-5-4/)
+- [Introducing GPT-5.3-Codex | OpenAI](https://openai.com/index/introducing-gpt-5-3-codex/)
+- [Introducing GPT-5.3-Codex-Spark | OpenAI](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+- [Introducing Sonnet 4.6 \ Anthropic](https://www.anthropic.com/news/claude-sonnet-4-6)
+- [GPT-5.2登場！和GPT-5.1差在哪？5大更新亮點、價格與應用場景一次看｜天下雜誌](https://www.cw.com.tw/article/5138891)
+- [Gemini 3.1 Pro Preview  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini-3.1-pro-preview)
+- [Google DeepMind](https://deepmind.google/)
+- [Introducing GPT-5.4 mini and nano | OpenAI](https://openai.com/index/introducing-gpt-5-4-mini-and-nano/)
 
 ## 雲端模型串接服務
 
 - 三大雲端模型串接  
   AWS：Amazon Bedrock  
   GCP：Vertex AI  
-  Azure：Azure AI Foundry－[Azure AI Foundry與Azure OpenAI介紹](https://copilot.microsoft.com/chats/XmztvFUQjHH5QthgYX29f)
-- [OpenRouter模型串接服務](https://openrouter.ai/)
+  Azure：Azure AI Foundry－[Chat－Azure AI Foundry與Azure OpenAI介紹](https://copilot.microsoft.com/chats/XmztvFUQjHH5QthgYX29f)
 - [Groq is fast, low cost inference.](https://groq.com/)
 - [SiliconFlow – AI Infrastructure for LLMs & Multimodal Models](https://www.siliconflow.com/)
-- Cline
 - [APIYI](https://api.apiyi.com/)
 
 ## Local地端架設
 
 - [LM Studio - Local AI on your computer](https://lmstudio.ai/)
-- [Ollama](https://ollama.com/)
 - [any-llm platform: Simplified management and analytics for LLM providers](https://any-llm.ai/)
 
 ## 官方原廠
 
-- OpenAI
-- Claude
-- Gemini
 - Grok
-- Deepseek
 - [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://www.kimi.com/)
 - [Z.ai - Inspiring AGI to Benefit Humanity](https://z.ai/chat)
 - [Qwen Chat](https://chat.qwen.ai/)
@@ -46,4 +50,4 @@
 - [Raptor Mini: GitHub Copilot’s New Code-First AI Model That Developers Shouldn’t Ignore - DEV Community](https://dev.to/koolkamalkishor/raptor-mini-github-copilots-new-code-first-ai-model-that-developers-shouldnt-ignore-44a4)
 - [GitHub Copilot 模型比較](https://docs.github.com/en/copilot/reference/ai-models/model-comparison)
 - [全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20120030/ironman/7039)
-- [LLM 的 參數是什麼?](https://www.perplexity.ai/search/openai-gpt-3hao-cheng-shi-yong-xk0cmyNhQpOkEkMLQtx6Pg)
+- [Chat－LLM 的 參數是什麼?](https://www.perplexity.ai/search/openai-gpt-3hao-cheng-shi-yong-xk0cmyNhQpOkEkMLQtx6Pg)
