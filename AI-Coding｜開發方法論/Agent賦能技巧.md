@@ -22,10 +22,8 @@
 - [The Agent Skills Directory](https://skills.sh/)
 - [MCP Marketplace - Cline](https://cline.bot/mcp-marketplace)
 - [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP](https://skillsmp.com/)
-- [oli799/lucide-svg-mcp](https://github.com/oli799/lucide-svg-mcp)
 - [Discover Top MCP Servers | MCP Market](https://mcpmarket.com/)
 - [MCPMark - Stress-Testing Comprehensive MCP Benchmark](https://mcpmark.ai/)
-- [halilural/electron-mcp-server](https://github.com/halilural/electron-mcp-server)
 - [travisvn/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills?tab=readme-ov-file)
 - [Awesome Claude Skills - Visual Directory - Awesome Claude](https://awesomeclaude.ai/awesome-claude-skills)
 - [ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -41,13 +39,25 @@
 
 ## MCP 蒐集
 
+- [oli799/lucide-svg-mcp](https://github.com/oli799/lucide-svg-mcp)
 - [jeff-nasseri/mikrotik-mcp: MCP server for Mikrotik](https://github.com/jeff-nasseri/mikrotik-mcp?tab=readme-ov-file)
 - [sevaepsteyn/routeros_mcp: MCP server for MikroTik RouterOS devices](https://github.com/sevaepsteyn/routeros_mcp)
+- [halilural/electron-mcp-server](https://github.com/halilural/electron-mcp-server)
 
 ## Skills 蒐集
 
+### 系統與網路
+
 - [mikrotik-routeros-rsc by alexandre-machado/ai-stuffs](https://skills.sh/alexandre-machado/ai-stuffs/mikrotik-routeros-rsc)
 - [powershell-7-expert by 404kidwiz/claude-supercode-skills](https://skills.sh/404kidwiz/claude-supercode-skills/powershell-7-expert)
+
+### 程式開發
+
+- [electron by teachingai/full-stack-skills](https://skills.sh/teachingai/full-stack-skills/electron)
+- [Bun from bun.sh](https://skills.sh/site/bun.sh/bun)
+- [bun-development by sickn33/antigravity-awesome-skills](https://skills.sh/sickn33/antigravity-awesome-skills/bun-development)
+- [suggest-lucide-icons by nweii/agent-stuff](https://skills.sh/nweii/agent-stuff/suggest-lucide-icons)
+- [gh-cli by github/awesome-copilot](https://skills.sh/github/awesome-copilot/gh-cli)
 
 ## 學習資源
 

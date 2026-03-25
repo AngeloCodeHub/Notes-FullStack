@@ -3,6 +3,10 @@
 
 - 0AUTH、API位置  
   `C:\Users\user\.local\share\opencode\auth.json`
+- [agentic loop](https://code.claude.com/docs/en/how-claude-code-works#the-agentic-loop)
+- built-in tools
+- Claude code 沒有刪除session指令，可以選擇session然後clear
+- [How Claude remembers your project - Claude Code Docs](https://code.claude.com/docs/en/memory)
 
 ## References
 

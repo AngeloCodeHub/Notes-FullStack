@@ -11,7 +11,7 @@
 - [ ] 代理交接的方法
 - [ ] 設定instructions位置  
       A：setting→chat.instructionsFilesLocations
-- [ ] 使用者全域的 copilot-instruction.me放在哪裡
+- [ ] 使用者全域的 copilot-instruction.md放在哪裡
 - [ ] Background 與Could、Local Agent  
       A：Background Agent 就是 Copilot Cli  
       [2025年11月（版本1.107） --- November 2025 (version 1.107)](https://code.visualstudio.com/updates/v1_107#_continue-tasks-in-background-or-cloud-agents)

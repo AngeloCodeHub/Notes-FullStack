@@ -19,7 +19,6 @@
   Azure：Azure AI Foundry－[Chat－Azure AI Foundry與Azure OpenAI介紹](https://copilot.microsoft.com/chats/XmztvFUQjHH5QthgYX29f)
 - [Groq is fast, low cost inference.](https://groq.com/)
 - [SiliconFlow – AI Infrastructure for LLMs & Multimodal Models](https://www.siliconflow.com/)
-- [APIYI](https://api.apiyi.com/)
 
 ## Local地端架設
 
@@ -29,7 +28,6 @@
 ## 官方原廠
 
 - Grok
-- [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://www.kimi.com/)
 - [Z.ai - Inspiring AGI to Benefit Humanity](https://z.ai/chat)
 - [Qwen Chat](https://chat.qwen.ai/)
 - [MiniMax](https://www.minimax.io/)
