@@ -4,8 +4,6 @@
 
 ## ToDo
 
-- [ ] Setting：github.copilot、chat
-
 ## FAQ
 
 - [ ] 代理交接的方法
@@ -22,17 +20,21 @@
 - [ ] 如何禁止 Agent 讀取 ref-Code 內容  
       A：在 instructions 告訴他
 
-## GitHub Copilot 目錄結構
+## instructions & CLAUDE.md
 
-資料交換格式：markdown
+  `~/.copilot/copilot-instructions.md` 
+  `~/.claude/CLAUDE.MD` 
+
+- Workspace，只在需要才會用到  
+  `.github/instructions/`  
+  `.claude/rules/`
+
+## Copilot 目錄結構
 
 - 全域Tools  
   `C:\Users\user\AppData\Roaming\Code\User\prompts`
 - Plugins 安裝目錄  
   `C:\Users\user\AppData\Roaming\Code\agentPlugins`
-- `.github/copilot-instructions.md`  
-  此檔案適用所有 Chat 的 intruction，Copilot 會自動帶入
-- `.github/instructions/`
 - `.github/agents/*.agent.md`：Custom Agent
 - `.github/prompts/`
 - `.github/skills/`
@@ -57,8 +59,8 @@
 
 ## VSCode
 
-- 查看已經載入的 instructions，Chat view右鍵→Diagnostics
-- [全域使用者 instructions](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_instructions-file-locations)
+- [instructions location](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_instructions-file-locations)  
+  可以使用 claude 格式
 - Background agents非常適合委派無需立即互動的任務。  
   They use Git worktrees to isolate file changes from your main workspace and prevent conflicts.
 - Ask與Plan mode也是一個Agent，只是在調用Tools上不同

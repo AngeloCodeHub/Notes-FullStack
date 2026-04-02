@@ -1,5 +1,7 @@
 # 指令
 
+DAMP＝Docker＋Apache＋MySql＋PHP
+
 ## MySQL
 
 使用mysql client程式需求

@@ -1,12 +1,28 @@
 
+## 常用指令
+
+- 建立 agent  
+  `/agent`
+- 顯示使用狀態  
+  `/status`
+
+## 設定檔位置
+
+- opencode 0AUTH、API位置  
+  `~\.local\share\opencode\auth.json`
+- opencode設定檔位置（使用者）  
+  `~/.config/opencode/opencode.json`  
+  設定檔位置（專案）  
+  `/.opencode/opencode.json`
+
 ## 筆記
 
-- 0AUTH、API位置  
-  `C:\Users\user\.local\share\opencode\auth.json`
+- opencode 可以使用 CLAUDE.MD
 - [agentic loop](https://code.claude.com/docs/en/how-claude-code-works#the-agentic-loop)
 - built-in tools
 - Claude code 沒有刪除session指令，可以選擇session然後clear
 - [How Claude remembers your project - Claude Code Docs](https://code.claude.com/docs/en/memory)
+- [Plugins for Claude Code and Cowork | Anthropic](https://claude.com/plugins)
 
 ## References
 

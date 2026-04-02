@@ -4,6 +4,10 @@
 [[訂閱｜API｜Token｜成本]]  
 [AI工具彙整](https://docs.google.com/spreadsheets/d/1mlsNYyfMTUoTWJZrxYvp3bGP_4bZ7cz4oOf-M5FQbMM)
 
+## FAQs
+
+- [ ] 在原廠訂閱的 API會比串接廠商如 OpenRouter、GitHub Copilot、Cline便宜嗎?
+
 ## Coding工具（CLI、IDE）
 
 - [[GitHub-Copilot]]

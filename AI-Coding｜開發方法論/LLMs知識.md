@@ -34,6 +34,8 @@
 
 ## Notes
 
+- LLM 要考慮其訓練日期
+- [Models.dev — An open-source database of AI models](https://models.dev/)
 - [Chat－MCP、Function Calling](https://gemini.google.com/app/c_f7074785f7e719e0)
 - [Function Calling vs Tool Calling in LLMs: A Beginner-Friendly Guide | by Syed Shurem Ali | Medium](https://medium.com/@shuremsyed41/function-calling-vs-tool-calling-in-llms-a-beginner-friendly-guide-2d9d7cbee261)
 - [2026 年養蝦 (OpenClaw) 必備，25 個免費 AI API 總整理 - 硬是要學](https://www.soft4fun.net/tech/ai/25-free-llm-api.htm)

@@ -1,4 +1,5 @@
 
+- [Bash、sh、source](https://claude.ai/chat/f9bf19fc-f294-44bd-90b4-9c28bc447d5a)
 - [Chat－brew 與 sudo supabase與bash competition 問題](https://www.perplexity.ai/search/wo-zai-ubuntu-linuxxia-zhi-xin-jYhxsqKRSEu971XIDFVQ1w)
 - [Bash類似PowerShell陰影預測](https://www.perplexity.ai/search/ubuntu-bash-command-lineyou-me-IvT49y12SI.Qw_pVYJiOtg)
 - Shell Script Formatter

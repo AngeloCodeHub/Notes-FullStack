@@ -22,7 +22,7 @@ remote.WSL.experimental.scriptLessStartup
 - 作為Windows的子系統，環境變數大部分繼承自父系統 Windows
 - 更名（使用registry）
   `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Lxss`
-- [本機Localhost可直接Nat訪問 WSL]([Accessing network applications with WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/networking))
+- [本機Localhost可直接Nat訪問 WSL](https://learn.microsoft.com/en-us/windows/wsl/networking)
 - Windows訪問 WSL方法與路徑  
   `\\wsl.localhost\Ubuntu-01`
 - Ubuntu 在 wsl 只有2G多  
