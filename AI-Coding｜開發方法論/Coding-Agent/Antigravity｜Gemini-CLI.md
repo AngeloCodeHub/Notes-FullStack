@@ -23,9 +23,6 @@
 - 工件（Artifacts）：工件是代理程式為實現更豐富對話體驗所產生的文件。
 - F1 命令已經整合WSL
 - [Working with Google Antigravity in WSL | by Dazbo (Darren Lester) | Google Cloud - Community | Nov, 2025 | Medium](https://medium.com/google-cloud/working-with-google-antigravity-in-wsl-944c96c949f3)
-- 問題：在WSL使用agy會導致git無法監控變動  
-  方法一：使用 ssh 方式連線  
-  方法二：將專案移到 Windows
 - Agent指令位置－專案目錄  
   資料交換格式：markdown  
   ```Text
@@ -65,6 +62,6 @@
 
 ## 教學
 
-- [ZhangYu-zjut/awesome-Antigravity: The comprehensive guide to Google Antigravity. Optimize agents, fix rate limits, and code faster with Gemini 3.](https://github.com/ZhangYu-zjut/awesome-Antigravity?tab=readme-ov-file)
+- [ZhangYu-zjut/awesome-Antigravity](https://github.com/ZhangYu-zjut/awesome-Antigravity?tab=readme-ov-file)
 - [Antigravity Rules & Workflows 實戰：讓 AI 自動遵循開發規範](https://memo.jimmyliao.net/p/antigravity-rules-and-workflows-ai)
 - [【凱文大叔】手把手教你 Antigravity 設定與應用：規則（Rules）＋神技能（Skills）＋自動化（Workflows）打造最強AI 超能力！ - YouTube](https://www.youtube.com/watch?v=e-WNdM4JO2U)

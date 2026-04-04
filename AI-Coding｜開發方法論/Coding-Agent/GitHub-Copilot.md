@@ -111,16 +111,17 @@
 
 ## 其他資源
 
+- [Scripting the GitHub Copilot CLI - Deep Dive - YouTube](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
 - [GitHub Copilot 總文件 - GitHub Docs](https://docs.github.com/en/copilot)
-- [github/awesome-copilot: Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.](https://github.com/github/awesome-copilot)
+- [github/awesome-copilot](https://github.com/github/awesome-copilot)
 - [GitHub AI（產品頁） · AI built into every step of your workflow](https://github.com/features/ai)
-- [doggy8088/github-copilot-configs: Will 保哥整理的最佳 GitHub Copilot 設定](https://github.com/doggy8088/github-copilot-configs)
+- [Will 保哥整理 VSCode GitHub Copilot 設定](https://github.com/doggy8088/github-copilot-configs)
 - [How to write better prompts for GitHub Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
 - [Using GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
 - [Generating Synthetic Datasets with GitHub Copilot](https://www.youtube.com/watch?v=4kwX1CUT43Q)
 - [How to Use GitHub Copilot to Become a Happier and More Productive Developer](https://www.freecodecamp.org/news/developer-productivity-with-github-copilot)
 - [GitHub Copilot Fundamentals Part 1 of 2 - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/copilot/)
-- [copilot-sdk: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk?fbclid=IwY2xjawPYietleHRuA2FlbQIxMQBicmlkETFlYTgzdU4wbFJRM0hsVmcyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrRj7gj6NYv5sIEGrEQuqLUHkztg9PKNDGog_mEVWXGemvB5twaAqTJUwML3_aem_4psBS293JQEzm8IAAhSHGQ)
+- [github/copilot-sdk](https://github.com/github/copilot-sdk)
 - [完全掌握 GitHub Copilot 提示工程的核心原理 - YouTube](https://www.youtube.com/watch?v=Mb5iThLRgfE)
 - [在終端機中利用 GitHub Copilot CLI 驅動代理工作流程 - YouTube](https://www.youtube.com/watch?v=0XCosNsVb8I)
 - [Github Copilot 聊天視窗指令整理-黑暗執行緒](https://blog.darkthread.net/blog/copilot-chat-cheatsheet/)

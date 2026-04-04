@@ -11,8 +11,8 @@
 ## Coding工具（CLI、IDE）
 
 - [[GitHub-Copilot]]
-- [[Antigravity｜Gemini-CLI]]
 - [Claude｜OpenCode](Claude｜OpenCode.md)
+- [[Antigravity｜Gemini-CLI]]
 - [Kiro](Kiro.md)
 - OpenAI Codex（VSCode Ext｜Codex CLI）
 
