@@ -23,10 +23,12 @@
 
 ## Marketplace
 
+- 
 - [The Agent Skills Directory](https://skills.sh/)
 - [MCP Marketplace - Cline](https://cline.bot/mcp-marketplace)
 - [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP](https://skillsmp.com/)
 - [Discover Top MCP Servers | MCP Market](https://mcpmarket.com/)
+- [Awesome MCP Servers](https://mcpservers.org/)
 - [MCPMark - Stress-Testing Comprehensive MCP Benchmark](https://mcpmark.ai/)
 - [travisvn/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills?tab=readme-ov-file)
 - [Awesome Claude Skills - Visual Directory - Awesome Claude](https://awesomeclaude.ai/awesome-claude-skills)
@@ -65,6 +67,7 @@
 
 ## 學習資源
 
+- [從 LLM 到 Agent Skill，一期視頻帶你打通底層邏輯！ - YouTube](https://www.youtube.com/watch?v=7qO8-kx3gW8)
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers)
 - [Agent Skills傻瓜式教程！26年最火AI技术就这？ - YouTube](https://www.youtube.com/watch?v=8NGznVwNHGY)
 - [neondatabase/add-mcp: The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)

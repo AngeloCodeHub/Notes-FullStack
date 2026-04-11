@@ -9,6 +9,8 @@
 
 ## 記事
 
+- [【Antigravity Agent Skills 教學】當別人還在複製貼上，你的 AI 已經自動搞定 - YouTube](https://www.youtube.com/watch?v=xe00zJEtuMo)
+- [Google Cloud Live: How to create Agent Skills for Gemini CLI - YouTube](https://www.youtube.com/watch?v=y4LEGj0gG4E)
 - Skills不用手動連接，也可明確指定
 - MCP不用手動連接，Agent會自動判斷. 也可明確指定（使用@符號）.  
   格式為：`@mcp:lucide-svg:電腦`

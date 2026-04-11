@@ -1,5 +1,24 @@
 # LLMs 知識
 
+## Harness
+
+- [使用 Agent 的方式正在劇變：終於有系統性介紹 Harness 的專文了 | Facebook](https://www.facebook.com/groups/gaitech/permalink/1648427013008174)
+- [自我進化！性能狂飆6倍！ MIT / 史丹佛 AI 挽具 (Harness) 到底有多恐怖？ | Facebook](https://www.facebook.com/groups/631614079045059/permalink/1212814347591693)
+- [不能再避談的 Harness Engineering - 定義著接下來世界走勢的重要典範... | Facebook](https://www.facebook.com/story.php?story_fbid=122154805772977113&id=61579313407097&post_id=61579313407097_122154805772977113)
+- [Harness：決定 AI Agent 成敗的不是模型，是這個東西 | WenHao Yu](https://yu-wenhao.com/zh-TW/blog/ai-harness/)
+
+## Qwen 3.6
+
+- [Qwen 3.6 Plus is Opus but Free? - YouTube](https://www.youtube.com/watch?v=v8RokQY05Bo)
+- [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
+- [Qwen3.6 Plus - API Pricing & Providers | OpenRouter](https://openrouter.ai/qwen/qwen3.6-plus)
+
+## Gemma 4
+
+- [Gemma models overview  |  Google AI for Developers](https://ai.google.dev/gemma/docs)
+- [gemma4](https://ollama.com/library/gemma4)
+- [gemma-cookbook: 一系列來自 Google 的 Gemma 開放模型指南和範例。](https://github.com/doggy8088/gemma-cookbook)
+
 ## LLM官方介紹
 
 - [Introducing GPT-5.4 | OpenAI](https://openai.com/index/introducing-gpt-5-4/)
@@ -28,9 +47,6 @@
 ## 官方原廠
 
 - Grok
-- [Z.ai - Inspiring AGI to Benefit Humanity](https://z.ai/chat)
-- [Qwen Chat](https://chat.qwen.ai/)
-- [MiniMax](https://www.minimax.io/)
 
 ## Notes
 

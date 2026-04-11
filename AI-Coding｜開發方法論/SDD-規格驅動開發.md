@@ -31,6 +31,8 @@
 
 ## Open Spec
 
+- 
+- [程序员福利！GitHub最火的Spec Kit项目深度解析：只需7条命令就能实现规格驱动开发，告别繁琐的PRD文档，让规范直接生成代码！支持Claude Code！ - YouTube](https://www.youtube.com/watch?v=PtIGaAPzCR0)
 - [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
 - [AI编程必学，规范(spec)驱动编程入门与实战 - YouTube](https://www.youtube.com/watch?v=vMXzB5nH6Ec)
 - [🚀开发者福音！现有项目用AI迭代？OpenSpec规范驱动开发！让AI按规范写代码，真正做到零失误！支持Cursor、Claude Code、Codex！比SpecKit更强大！三分钟为iOS新增功能 - YouTube](https://www.youtube.com/watch?v=ANjiJQQIBo0)

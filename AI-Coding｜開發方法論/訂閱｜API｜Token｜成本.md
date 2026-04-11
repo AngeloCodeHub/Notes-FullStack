@@ -2,8 +2,8 @@
 ## FAQ
 
 - 訂閱制 session與messages 與 API Token差別?  
-  session就是一個連續的對話，會感知Context  
-  message則是一次對問答會對話，不限於session
+  session就是一個連續的對話，感知Context  
+  message（request）則是一次對問答會對話，不限於session
 - 模型廠商本身訂閱制的 System Prompt有沒有算在內?
 - 訂閱 Claude pro但計費週期還沒到齊.升級至max，計費週期會怎麼計算?  
   A：週期不重新計算，而是收取差額

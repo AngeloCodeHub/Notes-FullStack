@@ -1,9 +1,10 @@
 # AI Coding Tools
 
-[[LLMs知識]]  
-[[訂閱｜API｜Token｜成本]]  
-[AI工具彙整](https://docs.google.com/spreadsheets/d/1mlsNYyfMTUoTWJZrxYvp3bGP_4bZ7cz4oOf-M5FQbMM)
-
+- [[LLMs知識]]  
+- [[訂閱｜API｜Token｜成本]]  
+- [AI工具彙整](https://docs.google.com/spreadsheets/d/1mlsNYyfMTUoTWJZrxYvp3bGP_4bZ7cz4oOf-M5FQbMM)
+- [[Agent賦能技巧]]
+- [Learn-AI參考書](https://www.notion.so/angelocode/1871d01afb7a800bba4ed67058783382?v=1871d01afb7a8092b371000c8062889c)
 ## FAQs
 
 - [ ] 在原廠訂閱的 API會比串接廠商如 OpenRouter、GitHub Copilot、Cline便宜嗎?
@@ -34,6 +35,11 @@
 
 ## References
 
+- [AI Agents Directory 2026 | 600+ AI Tools & Autonomous Agents](https://aiagentslist.com/)
+- [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow)
+- [ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow?tab=readme-ov-file)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+- [OpenAI Developers](https://developers.openai.com/)
 - [高見龍 - 我之前比較偏向 Martin Fowler 的看法，但隨著 AI 越來越厲害... | Facebook](https://www.facebook.com/701302536/posts/10160610897292537)
 - [Obsidian × Claude Code：打造「自動整理」工作流，靠 Skills 徹底解放雙手 - YouTube](https://www.youtube.com/watch?v=1Nttr6PVebE)
 - [Artifacts（工件）的解釋](https://www.perplexity.ai/search/xu-duo-ai-agentdu-hui-ti-dao-a-CA5rqFJjThq3ygJ.gKuSvg#080e6ba8-5263-4e1a-b7ca-027e80ab92be)  

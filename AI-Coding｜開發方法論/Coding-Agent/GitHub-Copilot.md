@@ -111,6 +111,7 @@
 
 ## 其他資源
 
+- [如果您最近也在看 GitHub Copilot CLI，這個官方免費課程資訊很適合您 | Facebook](https://www.facebook.com/groups/gaitech/permalink/1647789199738622)
 - [Scripting the GitHub Copilot CLI - Deep Dive - YouTube](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
 - [GitHub Copilot 總文件 - GitHub Docs](https://docs.github.com/en/copilot)
 - [github/awesome-copilot](https://github.com/github/awesome-copilot)
@@ -121,7 +122,6 @@
 - [Generating Synthetic Datasets with GitHub Copilot](https://www.youtube.com/watch?v=4kwX1CUT43Q)
 - [How to Use GitHub Copilot to Become a Happier and More Productive Developer](https://www.freecodecamp.org/news/developer-productivity-with-github-copilot)
 - [GitHub Copilot Fundamentals Part 1 of 2 - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/copilot/)
-- [github/copilot-sdk](https://github.com/github/copilot-sdk)
 - [完全掌握 GitHub Copilot 提示工程的核心原理 - YouTube](https://www.youtube.com/watch?v=Mb5iThLRgfE)
 - [在終端機中利用 GitHub Copilot CLI 驅動代理工作流程 - YouTube](https://www.youtube.com/watch?v=0XCosNsVb8I)
 - [Github Copilot 聊天視窗指令整理-黑暗執行緒](https://blog.darkthread.net/blog/copilot-chat-cheatsheet/)
