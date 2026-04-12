@@ -6,6 +6,8 @@
 - [自我進化！性能狂飆6倍！ MIT / 史丹佛 AI 挽具 (Harness) 到底有多恐怖？ | Facebook](https://www.facebook.com/groups/631614079045059/permalink/1212814347591693)
 - [不能再避談的 Harness Engineering - 定義著接下來世界走勢的重要典範... | Facebook](https://www.facebook.com/story.php?story_fbid=122154805772977113&id=61579313407097&post_id=61579313407097_122154805772977113)
 - [Harness：決定 AI Agent 成敗的不是模型，是這個東西 | WenHao Yu](https://yu-wenhao.com/zh-TW/blog/ai-harness/)
+- [Harness 工程：不是新詞，而是 Agent 工程終於被講明白了](https://codelove.tw/@tony/post/qO2Rda)
+- [Agent Harness 才是關鍵：為什麼同一個 AI 模型在不同產品表現天差地遠 | 鏈新聞 ABMedia](https://abmedia.io/agent-harness-engineering-why-same-model-different-performance)
 
 ## Qwen 3.6
 
@@ -43,6 +45,7 @@
 
 - [LM Studio - Local AI on your computer](https://lmstudio.ai/)
 - [any-llm platform: Simplified management and analytics for LLM providers](https://any-llm.ai/)
+- [Unsloth - Train and Run Models Locally](https://unsloth.ai/)
 
 ## 官方原廠
 

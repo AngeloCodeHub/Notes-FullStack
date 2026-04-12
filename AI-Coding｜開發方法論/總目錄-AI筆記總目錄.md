@@ -19,6 +19,7 @@
 
 ## 雜記
 
+- [成熟 AI Agent 產品真正的價值](https://www.facebook.com/100000500510921/posts/27627014230231889)
 - 叫 AI 做，你監督
 - [張維峰 - 現在大家最常煩惱的不是不想用AI，而是不知道要使用在什麼情境，Anthropic 官方網站整理了 75 個 Claude... | Facebook](https://www.facebook.com/story.php?story_fbid=10239686737081674&id=1089725894&post_id=1089725894_10239686737081674)
 - [邱煜庭 - AI 時代如果你真的想「學 AI」，請記得以下十件事情 | Facebook](https://www.facebook.com/1656852303/posts/10228900503211472)
