@@ -8,22 +8,22 @@
 
 ## 注意事項
 
-- 避免上下文汙染
-
 ## 賦能類型
 
-1. SDD Agent
-2. Skills
-3. MCP
-4. 模型
-5. Hooks
-6. 工具 extensions/Plugins
-7. Prompt
-8. Agents
+1. OS環境
+2. Agents（Github Copilot、Claude Code）
+3. Tools
+4. SDD Agent套件
+5. Skills
+6. MCP
+7. Hooks
+8. LLMs
+9. extensions/Plugins
+10. Prompt
+11. Web Fetch（docs）
 
 ## Marketplace
 
-- 
 - [The Agent Skills Directory](https://skills.sh/)
 - [MCP Marketplace - Cline](https://cline.bot/mcp-marketplace)
 - [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP](https://skillsmp.com/)
@@ -51,6 +51,9 @@
 - [halilural/electron-mcp-server](https://github.com/halilural/electron-mcp-server)
 
 ## Skills 蒐集
+
+- find-skills
+- microsoft-foundry
 
 ### 系統與網路
 

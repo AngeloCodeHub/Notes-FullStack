@@ -1,3 +1,8 @@
+## FAQ
+
+- [x] plugin可以安裝在project嗎?  
+      A：可以，`claude plugin i --scope project`
+- [ ] 
 
 ## Claude Code接入其他模型
 

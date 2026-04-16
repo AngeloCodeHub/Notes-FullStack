@@ -3,7 +3,7 @@
 - [[LLMs知識]]  
 - [[訂閱｜API｜Token｜成本]]  
 - [AI工具彙整](https://docs.google.com/spreadsheets/d/1mlsNYyfMTUoTWJZrxYvp3bGP_4bZ7cz4oOf-M5FQbMM)
-- [[Agent賦能技巧]]
+- [[Coding-Agent賦能]]
 - [Learn-AI參考書](https://www.notion.so/angelocode/1871d01afb7a800bba4ed67058783382?v=1871d01afb7a8092b371000c8062889c)
 ## FAQs
 
