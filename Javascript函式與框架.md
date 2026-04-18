@@ -6,7 +6,7 @@ Javascript 生態套件工具收集與官方網站
 
 ## 網站開發
 
-- [Next.JS](https://nextjs.org/)
+- [NEXT.JS](https://nextjs.org/)
 - [React.JS](https://react.dev/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - Astro｜VUE
@@ -44,7 +44,7 @@ Javascript 生態套件工具收集與官方網站
 
 ## 其他工具
 
-- [Webpack](https://webpack.js.org/)
+- [webpack](https://webpack.js.org/)
 - [ESLint](https://eslint.org/)
 - [PostCSS](https://postcss.org/)
 - [Prettier](https://prettier.io/)
