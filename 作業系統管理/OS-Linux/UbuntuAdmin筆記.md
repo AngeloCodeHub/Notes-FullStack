@@ -4,6 +4,7 @@
 - [The Linux Documentation Project](https://tldp.org/)
 - [Tecmint: Linux Howtos, Tutorials & Guides](https://www.tecmint.com/)
 - [鳥哥私房菜 - 鳥哥的首頁](https://linux.vbird.org/)
+- [Linux 教程 | 菜鸟教程](https://www.runoob.com/linux/linux-tutorial.html)
 
 ## 更改 SSH Port
 

@@ -4,8 +4,6 @@
 - [x] supabase-cli config 指定id會自動link嗎?  
       A：會，當db pull會自動連結
 - [ ] supabase/seed.sql 是作什麼用?
-- [x] supabase的branch如何使用?  
-      A：分支只有pro plan能使用
 - [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)  
       service role key 是不能公開的
 - [ ] self-hosting需要安裝 Deno嗎?
@@ -60,6 +58,7 @@
 - [Prisma | Instant Postgres plus an ORM for simpler db workflows](https://www.prisma.io/)
 - [PostgreSQL 角色權限 Roles and Privileges | PJCHENder I/O](https://pjchender.dev/database/psql-roles-privilege/)
 - [pgcli](https://www.pgcli.com/)
+- [我獨自開發 - Supabase 打造全端應用 :: 2025 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20147822/ironman/8754)
 
 ## References－Postgres.Org
 
