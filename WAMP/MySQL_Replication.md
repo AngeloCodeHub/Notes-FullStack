@@ -48,7 +48,7 @@ ALTER TABLE `member` CHANGE `Mem_LastLogin` `Mem_LastLogin` DATETIME on update C
 
 ### replication流程
 
-![展示圖](https://www.xn--djroe106hl2fyz1bszc.online/wp-content/uploads/2025/10/MySQL-Replication.webp)
+![展示圖](http://www.xn--djroe106hl2fyz1bszc.online/MySQL-Replication.webp)
 
 1. master資料改變寫入Binary Log
 2. Binlog dump進Relay Log

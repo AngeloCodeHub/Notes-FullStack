@@ -1,7 +1,7 @@
 
 ## Node.JS（Linux安裝 or Docker）
 
-1. Linux 使用 nvm
+1. Linux 使用 nvm  
    [nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)  
    注意：執行安裝腳本後需重啟 shell 使路徑生效
 2. 列出線上可用的的 lts.
