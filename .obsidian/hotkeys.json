@@ -24,15 +24,6 @@
       "key": "ArrowDown"
     }
   ],
-  "workspace:copy-path": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -110,6 +101,15 @@
         "Mod"
       ],
       "key": "Delete"
+    }
+  ],
+  "workspace:copy-path": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }
