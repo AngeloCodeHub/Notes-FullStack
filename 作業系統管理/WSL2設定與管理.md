@@ -3,6 +3,7 @@
 
 remote.WSL.experimental.scriptLessStartup
 
+- [WSL2 VHDX空間回收](https://claude.ai/share/11111fde-2395-4241-9376-55f6821aba7b)
 - /etc/wsl.conf 設定，這是一個 ini 格式的設定  
   ```ini
 	[automount]

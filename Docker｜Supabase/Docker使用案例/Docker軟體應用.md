@@ -1,14 +1,12 @@
 
-## OpenCode
-
-Windows與WSL可共用
+## Bun｜OpenCode｜Openspec
 
 - API Key存在哪裡?  
   A：/root/.local/share
 
 1. 創造一個持久化 opencode 的 volume  
    ```shell
-   docker volume create opencode-auth
+   docker volume create Bun
    ```
 2. 每個 Project 使用一個 container  
    ```Shell
@@ -19,7 +17,7 @@ Windows與WSL可共用
   ghcr.io/anomalyco/opencode
    ```
 
-## uv（spec-kit）
+## uv｜spec-kit
 
 1. 創造一個uv的container  
    ```shell
@@ -28,7 +26,7 @@ Windows與WSL可共用
   -v ${PWD}:/home `
   ghcr.io/astral-sh/uv:debian bash
    ```
-2. 安裝 spec-ki  
+2. 安裝 spec-kit  
    ```shell
    uv tool install specify-cli --from git+https://github.com/github/spec-kit.git
    ```
