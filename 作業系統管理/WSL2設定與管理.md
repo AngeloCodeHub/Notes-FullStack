@@ -51,9 +51,7 @@ remote.WSL.experimental.scriptLessStartup
 
 ## 參考
 
-- [Set up Node.js on WSL 2 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 - [Windows Subsystem for Linux Documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/)
-- [Ubuntu 上安裝 Node.js 最完整指南｜三大方法比較、步驟與常見問題全解析 - オープンソースの力を活用する方法～Ubuntuの世界へようこそ～](https://www.linux.digibeatrix.com/zh/development-environment-setup/ubuntu-nodejs-install-guide/)
 
 ## WSL 不適合 Production
 

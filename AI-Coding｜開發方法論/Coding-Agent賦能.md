@@ -24,7 +24,8 @@
 
 ## Marketplace
 
-- [The Agent Skills Directory](https://skills.sh/)
+- [Vercel－The Agent Skills Directory](https://skills.sh/)
+- [SkillsLLM - AI Skills Marketplace](https://skillsllm.com/)
 - [MCP Marketplace - Cline](https://cline.bot/mcp-marketplace)
 - [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP](https://skillsmp.com/)
 - [Discover Top MCP Servers | MCP Market](https://mcpmarket.com/)
