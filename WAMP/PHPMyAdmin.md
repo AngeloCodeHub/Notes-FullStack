@@ -1,0 +1,1 @@
+- [\[phpMyAdmin\]\[Bug\] 管理者無法新增使用者、沒有管理使用者的權限 - RicharLin.tw](https://richarlin.tw/blog/phpmyadmin-bug-root-user-cannot-manage-user-accounts/)
